@@ -7,6 +7,12 @@ Public void m1()
 {
 ///code
 }
+
+	Public void m1()
+{
+///code2
+}
+
 }
 }
 }
